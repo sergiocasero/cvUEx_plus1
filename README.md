@@ -1,4 +1,4 @@
-# cvUEx_plus1
+# cvUEx+
 
 cvUEx+ plugin te permitirá darle un toque diferente a tus aulas virtuales de la UNEX, 
 y también te permite guardar directamente tus archivos del Campus (ya sean pdfs, pptx...) 
