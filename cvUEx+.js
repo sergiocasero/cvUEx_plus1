@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         cvUEx+
 // @namespace    http://campusvirtual.unex.es
-// @version      0.1
+// @version      0.2
 // @description  Script que ayudará a mejorar la visibilidad del campus!
 // @author       Sergio Casero Hernández
 // @match        http://campusvirtual.unex.es/zonauex/avuex/course/view.php?id=*
