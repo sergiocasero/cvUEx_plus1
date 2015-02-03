@@ -26,3 +26,4 @@ En chrome:
 - Click en dashboard
 - Click en el nombre del script
 - Reemplazar el código nuevo por el antiguo
+- Guardar
