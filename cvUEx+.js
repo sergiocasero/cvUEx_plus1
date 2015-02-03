@@ -43,7 +43,7 @@ $(document).ready(function(){
         }
         if(tipo.indexOf("core") >= 0){
 			padre.addClass("coreClass");
-            var gDrive = '<div class="g-savetodrive" data-src="' + enlace.attr("href") + '" data-filename="' + enlace.text() + '" data-sitename="cvUEx+"> </div>';
+            var gDrive = '<div class="contenedorDrive"> <div class="g-savetodrive" data-src="' + enlace.attr("href") + '" data-filename="' + enlace.text() + '" data-sitename="cvUEx+"> </div></div>';
         	padre.append(gDrive);
         }
         
@@ -60,6 +60,10 @@ $(document).ready(function(){
         
         if(tipo.indexOf("page") >= 0){
         	padre.addClass("pageClass");
+        }
+
+        if(tipo.indexOf("folder") >= 0){
+            padre.addClass("folderClass");
         }
     }
 });
